@@ -15,6 +15,9 @@
  - [LinkedIn](https://www.linkedin.com/in/lisachampagne/) 👨🏻‍💻
  - [Twitter](https://twitter.com/midnightmoet) 👨🏻‍💻
  - Write Me an [Email](mailto:midnightmoet@gmail.com) 💌
+ -[GitHub Grade](https://github-readme-stats.vercel.app/api?username=midnightmoet&show_icons=true&locale=en)
+ -[GitHub Streaks](https://github-readme-streak-stats.herokuapp.com/?user=midnightmoet&)
+ -[Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs?username=midnightmoet&show_icons=true&locale=en&layout=compact)
 
 <!---This is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
